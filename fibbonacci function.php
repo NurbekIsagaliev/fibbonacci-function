@@ -1,11 +1,11 @@
 <?php
 /*Последовательность Фибоначчи. Необходимо написать функцию 
-iborow(int $limit) : string которая будет возвращать элементы последовательности 
+fiborow(int $limit) : string которая будет возвращать элементы последовательности 
 Фибоначчи ограниченной переданным на вход значением $limit в виде строки 
 (разделитель - пробел). Например: при входном значении 10 функция должна 
 вернуть строку "0 1 1 2 3 5 8" 
 Fibonacci sequence. Need to write a function
-iborow(int $limit) : string that will return the elements of the sequence
+fiborow(int $limit) : string that will return the elements of the sequence
 Fibonacci limited by the $limit value passed to the input as a string
 (separator - space). For example: with an input value of 10, the function should
 return string "0 1 1 2 3 5 8"*/
